@@ -1,0 +1,20 @@
+body {
+	background-color: lightgrey
+}
+
+#header {
+	background-color: black;
+	color: white;
+	border-bottom: 3px solid orange;
+}
+
+.block {
+	background-color: black;
+	color: white;
+	border-bottom: 3px solid orange;
+}
+.text-center { 
+	text-align: center;
+	font-size: 75px;
+	padding: 20px;
+ }
